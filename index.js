@@ -14,7 +14,7 @@ app.get('/', (req, res) => {
     res.send('Express + TypeScript Server');
 });
 
-app.use("/api/v1/" , );
+
 
 app.listen(port, () => {
     try {
